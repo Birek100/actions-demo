@@ -1,6 +1,7 @@
 name: Sekrety
 
-on: workflow_dispatch:
+on:
+  workflow_dispatch:
 
 jobs:
   sekrety:
